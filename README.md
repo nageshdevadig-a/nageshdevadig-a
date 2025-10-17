@@ -32,7 +32,7 @@ I enjoy learning new technologies, improving problem-solving skills, and writing
 
 ## Connect With Me
 - **GitHub:** [github.com/nageshdevadig-a](https://github.com/nageshdevadig-a)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/nagesh-devadiga)  
+- **LinkedIn:** [linkedin.com/in/nagesh-devadiga](https://linkedin.com/in/nagesh-devadiga)  
 - **Email:** `nageshhn.devadiga@gmail.com`
 
 ---
