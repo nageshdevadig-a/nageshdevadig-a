@@ -1,13 +1,40 @@
-<h1 align="center">Hi 👋, I'm Nagesh Devadiga</h1>
-- 📫 How to reach me **nageshhn.devadiga@gmail.com**
+# Hi, I'm Nagesh Devadiga 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nagesh-devadiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagesh-devadiga" height="30" width="40" /></a>
-</p>
+**Aspiring Software Engineer • Passionate Learner • Developer**
 
+---
 
+## About Me
+I’m an aspiring software engineer who loves building things that make a real impact.  
+I enjoy learning new technologies, improving problem-solving skills, and writing clean, efficient code.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nageshdevadig-a&show_icons=true&locale=en" alt="nageshdevadig-a" /></p>
+- 🌱 Currently learning: system design, backend development, and clean architecture  
+- 💡 Interests: software development, automation, and performance optimization  
+- 🎯 Goal: to become a well-rounded engineer who builds scalable, reliable systems  
+- 📫 Reach me at: `nageshhn.devadiga@gmail.com` 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nageshdevadig-a&" alt="nageshdevadig-a" /></p>
+---
+
+## Skills & Tools
+**Languages:** Java · Python · JavaScript · C  
+**Frameworks / Libraries:** Spring Boot · Express.js · React  
+**Tools:** Git · Docker  
+**Concepts:** OOP · Data Structures & Algorithms · REST APIs · Database Design
+
+---
+
+ What I'm Working On
+- Building personal projects to strengthen my backend and system design skills  
+- Learning advanced Git workflows and continuous integration basics  
+- Exploring open-source contributions and collaborative coding  
+
+---
+
+## Connect With Me
+- **GitHub:** [github.com/nageshdevadig-a](https://github.com/nageshdevadig-a)  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/nagesh-devadiga)  
+- **Email:** `nageshhn.devadiga@gmail.com`
+
+---
+
+> “The best way to learn is to build. Every line of code is a step forward.”
